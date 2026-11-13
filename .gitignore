@@ -1,0 +1,25 @@
+# Entornos
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Datos: el corpus se regenera con `jobmarket fetch`
+data/*.csv
+data/*.db
+data/*.db-journal
+data/*.db-wal
+
+# Caché de tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,2922 @@
+{
+  "ADMIN": {
+    "classified": 194,
+    "terms": [
+      {
+        "term": "reporting",
+        "count": 50,
+        "pct": 25.8,
+        "ci": [
+          20.1,
+          32.4
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 44,
+        "pct": 22.7,
+        "ci": [
+          17.4,
+          29.1
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 35,
+        "pct": 18.0,
+        "ci": [
+          13.3,
+          24.1
+        ]
+      },
+      {
+        "term": "stakeholder",
+        "count": 32,
+        "pct": 16.5,
+        "ci": [
+          11.9,
+          22.4
+        ]
+      },
+      {
+        "term": "python",
+        "count": 27,
+        "pct": 13.9,
+        "ci": [
+          9.7,
+          19.5
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 24,
+        "pct": 12.4,
+        "ci": [
+          8.5,
+          17.7
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 21,
+        "pct": 10.8,
+        "ci": [
+          7.2,
+          16.0
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 20,
+        "pct": 10.3,
+        "ci": [
+          6.8,
+          15.4
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 20,
+        "pct": 10.3,
+        "ci": [
+          6.8,
+          15.4
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 19,
+        "pct": 9.8,
+        "ci": [
+          6.4,
+          14.8
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 19,
+        "pct": 9.8,
+        "ci": [
+          6.4,
+          14.8
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 17,
+        "pct": 8.8,
+        "ci": [
+          5.5,
+          13.6
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 17,
+        "pct": 8.8,
+        "ci": [
+          5.5,
+          13.6
+        ]
+      },
+      {
+        "term": "git",
+        "count": 14,
+        "pct": 7.2,
+        "ci": [
+          4.3,
+          11.7
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 13,
+        "pct": 6.7,
+        "ci": [
+          4.0,
+          11.1
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 13,
+        "pct": 6.7,
+        "ci": [
+          4.0,
+          11.1
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 13,
+        "pct": 6.7,
+        "ci": [
+          4.0,
+          11.1
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 13,
+        "pct": 6.7,
+        "ci": [
+          4.0,
+          11.1
+        ]
+      },
+      {
+        "term": "reconciliation",
+        "count": 13,
+        "pct": 6.7,
+        "ci": [
+          4.0,
+          11.1
+        ]
+      },
+      {
+        "term": "vendor_management",
+        "count": 12,
+        "pct": 6.2,
+        "ci": [
+          3.6,
+          10.5
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 12,
+        "pct": 6.2,
+        "ci": [
+          3.6,
+          10.5
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 12,
+        "pct": 6.2,
+        "ci": [
+          3.6,
+          10.5
+        ]
+      },
+      {
+        "term": "notion",
+        "count": 11,
+        "pct": 5.7,
+        "ci": [
+          3.2,
+          9.9
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 11,
+        "pct": 5.7,
+        "ci": [
+          3.2,
+          9.9
+        ]
+      },
+      {
+        "term": "ticketing",
+        "count": 11,
+        "pct": 5.7,
+        "ci": [
+          3.2,
+          9.9
+        ]
+      },
+      {
+        "term": "ab_testing",
+        "count": 10,
+        "pct": 5.2,
+        "ci": [
+          2.8,
+          9.2
+        ]
+      },
+      {
+        "term": "api_testing",
+        "count": 8,
+        "pct": 4.1,
+        "ci": [
+          2.1,
+          7.9
+        ]
+      },
+      {
+        "term": "model_evaluation",
+        "count": 7,
+        "pct": 3.6,
+        "ci": [
+          1.8,
+          7.3
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 7,
+        "pct": 3.6,
+        "ci": [
+          1.8,
+          7.3
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 7,
+        "pct": 3.6,
+        "ci": [
+          1.8,
+          7.3
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 7,
+        "pct": 3.6,
+        "ci": [
+          1.8,
+          7.3
+        ]
+      },
+      {
+        "term": "power_bi",
+        "count": 6,
+        "pct": 3.1,
+        "ci": [
+          1.4,
+          6.6
+        ]
+      },
+      {
+        "term": "hospitality",
+        "count": 6,
+        "pct": 3.1,
+        "ci": [
+          1.4,
+          6.6
+        ]
+      },
+      {
+        "term": "customer_success",
+        "count": 6,
+        "pct": 3.1,
+        "ci": [
+          1.4,
+          6.6
+        ]
+      },
+      {
+        "term": "data_entry",
+        "count": 5,
+        "pct": 2.6,
+        "ci": [
+          1.1,
+          5.9
+        ]
+      },
+      {
+        "term": "sop",
+        "count": 5,
+        "pct": 2.6,
+        "ci": [
+          1.1,
+          5.9
+        ]
+      },
+      {
+        "term": "looker",
+        "count": 5,
+        "pct": 2.6,
+        "ci": [
+          1.1,
+          5.9
+        ]
+      },
+      {
+        "term": "booking",
+        "count": 5,
+        "pct": 2.6,
+        "ci": [
+          1.1,
+          5.9
+        ]
+      },
+      {
+        "term": "qa",
+        "count": 4,
+        "pct": 2.1,
+        "ci": [
+          0.8,
+          5.2
+        ]
+      },
+      {
+        "term": "jira",
+        "count": 4,
+        "pct": 2.1,
+        "ci": [
+          0.8,
+          5.2
+        ]
+      }
+    ]
+  },
+  "IA": {
+    "classified": 303,
+    "terms": [
+      {
+        "term": "llm",
+        "count": 196,
+        "pct": 64.7,
+        "ci": [
+          59.2,
+          69.9
+        ]
+      },
+      {
+        "term": "python",
+        "count": 127,
+        "pct": 41.9,
+        "ci": [
+          36.5,
+          47.5
+        ]
+      },
+      {
+        "term": "stakeholder",
+        "count": 85,
+        "pct": 28.1,
+        "ci": [
+          23.3,
+          33.4
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 81,
+        "pct": 26.7,
+        "ci": [
+          22.1,
+          32.0
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 75,
+        "pct": 24.8,
+        "ci": [
+          20.2,
+          29.9
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 73,
+        "pct": 24.1,
+        "ci": [
+          19.6,
+          29.2
+        ]
+      },
+      {
+        "term": "data_quality",
+        "count": 67,
+        "pct": 22.1,
+        "ci": [
+          17.8,
+          27.1
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 60,
+        "pct": 19.8,
+        "ci": [
+          15.7,
+          24.7
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 58,
+        "pct": 19.1,
+        "ci": [
+          15.1,
+          23.9
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 56,
+        "pct": 18.5,
+        "ci": [
+          14.5,
+          23.2
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 51,
+        "pct": 16.8,
+        "ci": [
+          13.0,
+          21.5
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 50,
+        "pct": 16.5,
+        "ci": [
+          12.7,
+          21.1
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 46,
+        "pct": 15.2,
+        "ci": [
+          11.6,
+          19.7
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 45,
+        "pct": 14.9,
+        "ci": [
+          11.3,
+          19.3
+        ]
+      },
+      {
+        "term": "etl",
+        "count": 43,
+        "pct": 14.2,
+        "ci": [
+          10.7,
+          18.6
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 41,
+        "pct": 13.5,
+        "ci": [
+          10.1,
+          17.8
+        ]
+      },
+      {
+        "term": "ab_testing",
+        "count": 40,
+        "pct": 13.2,
+        "ci": [
+          9.8,
+          17.5
+        ]
+      },
+      {
+        "term": "git",
+        "count": 38,
+        "pct": 12.5,
+        "ci": [
+          9.3,
+          16.7
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 38,
+        "pct": 12.5,
+        "ci": [
+          9.3,
+          16.7
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 37,
+        "pct": 12.2,
+        "ci": [
+          9.0,
+          16.4
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 33,
+        "pct": 10.9,
+        "ci": [
+          7.9,
+          14.9
+        ]
+      },
+      {
+        "term": "annotation",
+        "count": 32,
+        "pct": 10.6,
+        "ci": [
+          7.6,
+          14.5
+        ]
+      },
+      {
+        "term": "model_evaluation",
+        "count": 32,
+        "pct": 10.6,
+        "ci": [
+          7.6,
+          14.5
+        ]
+      },
+      {
+        "term": "prompt_engineering",
+        "count": 31,
+        "pct": 10.2,
+        "ci": [
+          7.3,
+          14.2
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 27,
+        "pct": 8.9,
+        "ci": [
+          6.2,
+          12.7
+        ]
+      },
+      {
+        "term": "java",
+        "count": 26,
+        "pct": 8.6,
+        "ci": [
+          5.9,
+          12.3
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 23,
+        "pct": 7.6,
+        "ci": [
+          5.1,
+          11.1
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 23,
+        "pct": 7.6,
+        "ci": [
+          5.1,
+          11.1
+        ]
+      },
+      {
+        "term": "troubleshooting",
+        "count": 18,
+        "pct": 5.9,
+        "ci": [
+          3.8,
+          9.2
+        ]
+      },
+      {
+        "term": "vendor_management",
+        "count": 17,
+        "pct": 5.6,
+        "ci": [
+          3.5,
+          8.8
+        ]
+      },
+      {
+        "term": "api_testing",
+        "count": 16,
+        "pct": 5.3,
+        "ci": [
+          3.3,
+          8.4
+        ]
+      },
+      {
+        "term": "customer_success",
+        "count": 16,
+        "pct": 5.3,
+        "ci": [
+          3.3,
+          8.4
+        ]
+      },
+      {
+        "term": "qa",
+        "count": 15,
+        "pct": 5.0,
+        "ci": [
+          3.0,
+          8.0
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 14,
+        "pct": 4.6,
+        "ci": [
+          2.8,
+          7.6
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 14,
+        "pct": 4.6,
+        "ci": [
+          2.8,
+          7.6
+        ]
+      },
+      {
+        "term": "escalation",
+        "count": 14,
+        "pct": 4.6,
+        "ci": [
+          2.8,
+          7.6
+        ]
+      },
+      {
+        "term": "statistics",
+        "count": 14,
+        "pct": 4.6,
+        "ci": [
+          2.8,
+          7.6
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 13,
+        "pct": 4.3,
+        "ci": [
+          2.5,
+          7.2
+        ]
+      },
+      {
+        "term": "tableau",
+        "count": 12,
+        "pct": 4.0,
+        "ci": [
+          2.3,
+          6.8
+        ]
+      },
+      {
+        "term": "requirements",
+        "count": 12,
+        "pct": 4.0,
+        "ci": [
+          2.3,
+          6.8
+        ]
+      }
+    ]
+  },
+  "OPS": {
+    "classified": 1129,
+    "terms": [
+      {
+        "term": "stakeholder",
+        "count": 482,
+        "pct": 42.7,
+        "ci": [
+          39.8,
+          45.6
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 374,
+        "pct": 33.1,
+        "ci": [
+          30.4,
+          35.9
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 282,
+        "pct": 25.0,
+        "ci": [
+          22.5,
+          27.6
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 271,
+        "pct": 24.0,
+        "ci": [
+          21.6,
+          26.6
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 233,
+        "pct": 20.6,
+        "ci": [
+          18.4,
+          23.1
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 214,
+        "pct": 19.0,
+        "ci": [
+          16.8,
+          21.3
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 190,
+        "pct": 16.8,
+        "ci": [
+          14.8,
+          19.1
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 177,
+        "pct": 15.7,
+        "ci": [
+          13.7,
+          17.9
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 172,
+        "pct": 15.2,
+        "ci": [
+          13.3,
+          17.4
+        ]
+      },
+      {
+        "term": "customer_success",
+        "count": 171,
+        "pct": 15.1,
+        "ci": [
+          13.2,
+          17.4
+        ]
+      },
+      {
+        "term": "python",
+        "count": 145,
+        "pct": 12.8,
+        "ci": [
+          11.0,
+          14.9
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 135,
+        "pct": 12.0,
+        "ci": [
+          10.2,
+          14.0
+        ]
+      },
+      {
+        "term": "vendor_management",
+        "count": 125,
+        "pct": 11.1,
+        "ci": [
+          9.4,
+          13.0
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 120,
+        "pct": 10.6,
+        "ci": [
+          9.0,
+          12.6
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 119,
+        "pct": 10.5,
+        "ci": [
+          8.9,
+          12.5
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 113,
+        "pct": 10.0,
+        "ci": [
+          8.4,
+          11.9
+        ]
+      },
+      {
+        "term": "escalation",
+        "count": 110,
+        "pct": 9.7,
+        "ci": [
+          8.1,
+          11.6
+        ]
+      },
+      {
+        "term": "inventory",
+        "count": 106,
+        "pct": 9.4,
+        "ci": [
+          7.8,
+          11.2
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 103,
+        "pct": 9.1,
+        "ci": [
+          7.6,
+          10.9
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 97,
+        "pct": 8.6,
+        "ci": [
+          7.1,
+          10.4
+        ]
+      },
+      {
+        "term": "troubleshooting",
+        "count": 92,
+        "pct": 8.1,
+        "ci": [
+          6.7,
+          9.9
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 91,
+        "pct": 8.1,
+        "ci": [
+          6.6,
+          9.8
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 87,
+        "pct": 7.7,
+        "ci": [
+          6.3,
+          9.4
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 79,
+        "pct": 7.0,
+        "ci": [
+          5.7,
+          8.6
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 76,
+        "pct": 6.7,
+        "ci": [
+          5.4,
+          8.3
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 72,
+        "pct": 6.4,
+        "ci": [
+          5.1,
+          8.0
+        ]
+      },
+      {
+        "term": "ab_testing",
+        "count": 71,
+        "pct": 6.3,
+        "ci": [
+          5.0,
+          7.9
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 69,
+        "pct": 6.1,
+        "ci": [
+          4.9,
+          7.7
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 65,
+        "pct": 5.8,
+        "ci": [
+          4.5,
+          7.3
+        ]
+      },
+      {
+        "term": "git",
+        "count": 61,
+        "pct": 5.4,
+        "ci": [
+          4.2,
+          6.9
+        ]
+      },
+      {
+        "term": "reconciliation",
+        "count": 49,
+        "pct": 4.3,
+        "ci": [
+          3.3,
+          5.7
+        ]
+      },
+      {
+        "term": "ticketing",
+        "count": 49,
+        "pct": 4.3,
+        "ci": [
+          3.3,
+          5.7
+        ]
+      },
+      {
+        "term": "hubspot",
+        "count": 43,
+        "pct": 3.8,
+        "ci": [
+          2.8,
+          5.1
+        ]
+      },
+      {
+        "term": "requirements",
+        "count": 41,
+        "pct": 3.6,
+        "ci": [
+          2.7,
+          4.9
+        ]
+      },
+      {
+        "term": "etl",
+        "count": 40,
+        "pct": 3.5,
+        "ci": [
+          2.6,
+          4.8
+        ]
+      },
+      {
+        "term": "qa",
+        "count": 40,
+        "pct": 3.5,
+        "ci": [
+          2.6,
+          4.8
+        ]
+      },
+      {
+        "term": "data_quality",
+        "count": 39,
+        "pct": 3.5,
+        "ci": [
+          2.5,
+          4.7
+        ]
+      },
+      {
+        "term": "java",
+        "count": 38,
+        "pct": 3.4,
+        "ci": [
+          2.5,
+          4.6
+        ]
+      },
+      {
+        "term": "csat",
+        "count": 38,
+        "pct": 3.4,
+        "ci": [
+          2.5,
+          4.6
+        ]
+      },
+      {
+        "term": "sla",
+        "count": 33,
+        "pct": 2.9,
+        "ci": [
+          2.1,
+          4.1
+        ]
+      }
+    ]
+  },
+  "PM": {
+    "classified": 200,
+    "terms": [
+      {
+        "term": "stakeholder",
+        "count": 87,
+        "pct": 43.5,
+        "ci": [
+          36.8,
+          50.4
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 75,
+        "pct": 37.5,
+        "ci": [
+          31.1,
+          44.4
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 57,
+        "pct": 28.5,
+        "ci": [
+          22.7,
+          35.1
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 52,
+        "pct": 26.0,
+        "ci": [
+          20.4,
+          32.5
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 52,
+        "pct": 26.0,
+        "ci": [
+          20.4,
+          32.5
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 51,
+        "pct": 25.5,
+        "ci": [
+          20.0,
+          32.0
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 36,
+        "pct": 18.0,
+        "ci": [
+          13.3,
+          23.9
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 36,
+        "pct": 18.0,
+        "ci": [
+          13.3,
+          23.9
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 34,
+        "pct": 17.0,
+        "ci": [
+          12.4,
+          22.8
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 31,
+        "pct": 15.5,
+        "ci": [
+          11.1,
+          21.2
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 26,
+        "pct": 13.0,
+        "ci": [
+          9.0,
+          18.4
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 26,
+        "pct": 13.0,
+        "ci": [
+          9.0,
+          18.4
+        ]
+      },
+      {
+        "term": "jira",
+        "count": 25,
+        "pct": 12.5,
+        "ci": [
+          8.6,
+          17.8
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 25,
+        "pct": 12.5,
+        "ci": [
+          8.6,
+          17.8
+        ]
+      },
+      {
+        "term": "bug_reporting",
+        "count": 23,
+        "pct": 11.5,
+        "ci": [
+          7.8,
+          16.7
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 23,
+        "pct": 11.5,
+        "ci": [
+          7.8,
+          16.7
+        ]
+      },
+      {
+        "term": "python",
+        "count": 23,
+        "pct": 11.5,
+        "ci": [
+          7.8,
+          16.7
+        ]
+      },
+      {
+        "term": "requirements",
+        "count": 22,
+        "pct": 11.0,
+        "ci": [
+          7.4,
+          16.1
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 21,
+        "pct": 10.5,
+        "ci": [
+          7.0,
+          15.5
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 18,
+        "pct": 9.0,
+        "ci": [
+          5.8,
+          13.8
+        ]
+      },
+      {
+        "term": "customer_success",
+        "count": 18,
+        "pct": 9.0,
+        "ci": [
+          5.8,
+          13.8
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 17,
+        "pct": 8.5,
+        "ci": [
+          5.4,
+          13.2
+        ]
+      },
+      {
+        "term": "escalation",
+        "count": 15,
+        "pct": 7.5,
+        "ci": [
+          4.6,
+          12.0
+        ]
+      },
+      {
+        "term": "ticketing",
+        "count": 14,
+        "pct": 7.0,
+        "ci": [
+          4.2,
+          11.4
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 13,
+        "pct": 6.5,
+        "ci": [
+          3.8,
+          10.8
+        ]
+      },
+      {
+        "term": "git",
+        "count": 13,
+        "pct": 6.5,
+        "ci": [
+          3.8,
+          10.8
+        ]
+      },
+      {
+        "term": "java",
+        "count": 12,
+        "pct": 6.0,
+        "ci": [
+          3.5,
+          10.2
+        ]
+      },
+      {
+        "term": "ab_testing",
+        "count": 12,
+        "pct": 6.0,
+        "ci": [
+          3.5,
+          10.2
+        ]
+      },
+      {
+        "term": "troubleshooting",
+        "count": 11,
+        "pct": 5.5,
+        "ci": [
+          3.1,
+          9.6
+        ]
+      },
+      {
+        "term": "csat",
+        "count": 11,
+        "pct": 5.5,
+        "ci": [
+          3.1,
+          9.6
+        ]
+      },
+      {
+        "term": "vendor_management",
+        "count": 10,
+        "pct": 5.0,
+        "ci": [
+          2.7,
+          9.0
+        ]
+      },
+      {
+        "term": "qa",
+        "count": 10,
+        "pct": 5.0,
+        "ci": [
+          2.7,
+          9.0
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 10,
+        "pct": 5.0,
+        "ci": [
+          2.7,
+          9.0
+        ]
+      },
+      {
+        "term": "api_testing",
+        "count": 8,
+        "pct": 4.0,
+        "ci": [
+          2.0,
+          7.7
+        ]
+      },
+      {
+        "term": "etl",
+        "count": 7,
+        "pct": 3.5,
+        "ci": [
+          1.7,
+          7.0
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 7,
+        "pct": 3.5,
+        "ci": [
+          1.7,
+          7.0
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 7,
+        "pct": 3.5,
+        "ci": [
+          1.7,
+          7.0
+        ]
+      },
+      {
+        "term": "sla",
+        "count": 6,
+        "pct": 3.0,
+        "ci": [
+          1.4,
+          6.4
+        ]
+      },
+      {
+        "term": "product_design",
+        "count": 6,
+        "pct": 3.0,
+        "ci": [
+          1.4,
+          6.4
+        ]
+      },
+      {
+        "term": "user_flows",
+        "count": 6,
+        "pct": 3.0,
+        "ci": [
+          1.4,
+          6.4
+        ]
+      }
+    ]
+  },
+  "QA": {
+    "classified": 73,
+    "terms": [
+      {
+        "term": "qa",
+        "count": 49,
+        "pct": 67.1,
+        "ci": [
+          55.7,
+          76.8
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 22,
+        "pct": 30.1,
+        "ci": [
+          20.8,
+          41.4
+        ]
+      },
+      {
+        "term": "python",
+        "count": 20,
+        "pct": 27.4,
+        "ci": [
+          18.5,
+          38.6
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 20,
+        "pct": 27.4,
+        "ci": [
+          18.5,
+          38.6
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 19,
+        "pct": 26.0,
+        "ci": [
+          17.3,
+          37.1
+        ]
+      },
+      {
+        "term": "stakeholder",
+        "count": 15,
+        "pct": 20.5,
+        "ci": [
+          12.9,
+          31.2
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 14,
+        "pct": 19.2,
+        "ci": [
+          11.8,
+          29.7
+        ]
+      },
+      {
+        "term": "bug_reporting",
+        "count": 14,
+        "pct": 19.2,
+        "ci": [
+          11.8,
+          29.7
+        ]
+      },
+      {
+        "term": "jira",
+        "count": 14,
+        "pct": 19.2,
+        "ci": [
+          11.8,
+          29.7
+        ]
+      },
+      {
+        "term": "git",
+        "count": 13,
+        "pct": 17.8,
+        "ci": [
+          10.7,
+          28.1
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 13,
+        "pct": 17.8,
+        "ci": [
+          10.7,
+          28.1
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 13,
+        "pct": 17.8,
+        "ci": [
+          10.7,
+          28.1
+        ]
+      },
+      {
+        "term": "test_plans",
+        "count": 11,
+        "pct": 15.1,
+        "ci": [
+          8.6,
+          25.0
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 10,
+        "pct": 13.7,
+        "ci": [
+          7.6,
+          23.4
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 10,
+        "pct": 13.7,
+        "ci": [
+          7.6,
+          23.4
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 9,
+        "pct": 12.3,
+        "ci": [
+          6.6,
+          21.8
+        ]
+      },
+      {
+        "term": "test_cases",
+        "count": 9,
+        "pct": 12.3,
+        "ci": [
+          6.6,
+          21.8
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 8,
+        "pct": 11.0,
+        "ci": [
+          5.7,
+          20.2
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 8,
+        "pct": 11.0,
+        "ci": [
+          5.7,
+          20.2
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 8,
+        "pct": 11.0,
+        "ci": [
+          5.7,
+          20.2
+        ]
+      },
+      {
+        "term": "playwright",
+        "count": 8,
+        "pct": 11.0,
+        "ci": [
+          5.7,
+          20.2
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 7,
+        "pct": 9.6,
+        "ci": [
+          4.7,
+          18.5
+        ]
+      },
+      {
+        "term": "api_testing",
+        "count": 7,
+        "pct": 9.6,
+        "ci": [
+          4.7,
+          18.5
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 7,
+        "pct": 9.6,
+        "ci": [
+          4.7,
+          18.5
+        ]
+      },
+      {
+        "term": "accessibility",
+        "count": 7,
+        "pct": 9.6,
+        "ci": [
+          4.7,
+          18.5
+        ]
+      },
+      {
+        "term": "troubleshooting",
+        "count": 7,
+        "pct": 9.6,
+        "ci": [
+          4.7,
+          18.5
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 7,
+        "pct": 9.6,
+        "ci": [
+          4.7,
+          18.5
+        ]
+      },
+      {
+        "term": "java",
+        "count": 6,
+        "pct": 8.2,
+        "ci": [
+          3.8,
+          16.8
+        ]
+      },
+      {
+        "term": "regression",
+        "count": 6,
+        "pct": 8.2,
+        "ci": [
+          3.8,
+          16.8
+        ]
+      },
+      {
+        "term": "ab_testing",
+        "count": 6,
+        "pct": 8.2,
+        "ci": [
+          3.8,
+          16.8
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 6,
+        "pct": 8.2,
+        "ci": [
+          3.8,
+          16.8
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 5,
+        "pct": 6.8,
+        "ci": [
+          3.0,
+          15.1
+        ]
+      },
+      {
+        "term": "manual_testing",
+        "count": 5,
+        "pct": 6.8,
+        "ci": [
+          3.0,
+          15.1
+        ]
+      },
+      {
+        "term": "ticketing",
+        "count": 5,
+        "pct": 6.8,
+        "ci": [
+          3.0,
+          15.1
+        ]
+      },
+      {
+        "term": "figma",
+        "count": 5,
+        "pct": 6.8,
+        "ci": [
+          3.0,
+          15.1
+        ]
+      },
+      {
+        "term": "postman",
+        "count": 5,
+        "pct": 6.8,
+        "ci": [
+          3.0,
+          15.1
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 4,
+        "pct": 5.5,
+        "ci": [
+          2.2,
+          13.3
+        ]
+      },
+      {
+        "term": "data_quality",
+        "count": 4,
+        "pct": 5.5,
+        "ci": [
+          2.2,
+          13.3
+        ]
+      },
+      {
+        "term": "testrail",
+        "count": 4,
+        "pct": 5.5,
+        "ci": [
+          2.2,
+          13.3
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 4,
+        "pct": 5.5,
+        "ci": [
+          2.2,
+          13.3
+        ]
+      }
+    ]
+  },
+  "SUPPORT": {
+    "classified": 459,
+    "terms": [
+      {
+        "term": "customer_success",
+        "count": 271,
+        "pct": 59.0,
+        "ci": [
+          54.5,
+          63.4
+        ]
+      },
+      {
+        "term": "stakeholder",
+        "count": 146,
+        "pct": 31.8,
+        "ci": [
+          27.7,
+          36.2
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 118,
+        "pct": 25.7,
+        "ci": [
+          21.9,
+          29.9
+        ]
+      },
+      {
+        "term": "ticketing",
+        "count": 106,
+        "pct": 23.1,
+        "ci": [
+          19.5,
+          27.2
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 88,
+        "pct": 19.2,
+        "ci": [
+          15.8,
+          23.0
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 87,
+        "pct": 19.0,
+        "ci": [
+          15.6,
+          22.8
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 82,
+        "pct": 17.9,
+        "ci": [
+          14.6,
+          21.6
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 78,
+        "pct": 17.0,
+        "ci": [
+          13.8,
+          20.7
+        ]
+      },
+      {
+        "term": "escalation",
+        "count": 72,
+        "pct": 15.7,
+        "ci": [
+          12.6,
+          19.3
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 67,
+        "pct": 14.6,
+        "ci": [
+          11.7,
+          18.1
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 58,
+        "pct": 12.6,
+        "ci": [
+          9.9,
+          16.0
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 54,
+        "pct": 11.8,
+        "ci": [
+          9.1,
+          15.0
+        ]
+      },
+      {
+        "term": "troubleshooting",
+        "count": 49,
+        "pct": 10.7,
+        "ci": [
+          8.2,
+          13.8
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 43,
+        "pct": 9.4,
+        "ci": [
+          7.0,
+          12.4
+        ]
+      },
+      {
+        "term": "csat",
+        "count": 41,
+        "pct": 8.9,
+        "ci": [
+          6.7,
+          11.9
+        ]
+      },
+      {
+        "term": "upselling",
+        "count": 41,
+        "pct": 8.9,
+        "ci": [
+          6.7,
+          11.9
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 35,
+        "pct": 7.6,
+        "ci": [
+          5.5,
+          10.4
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 29,
+        "pct": 6.3,
+        "ci": [
+          4.4,
+          8.9
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 27,
+        "pct": 5.9,
+        "ci": [
+          4.1,
+          8.4
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 26,
+        "pct": 5.7,
+        "ci": [
+          3.9,
+          8.2
+        ]
+      },
+      {
+        "term": "python",
+        "count": 25,
+        "pct": 5.4,
+        "ci": [
+          3.7,
+          7.9
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 24,
+        "pct": 5.2,
+        "ci": [
+          3.5,
+          7.7
+        ]
+      },
+      {
+        "term": "vendor_management",
+        "count": 23,
+        "pct": 5.0,
+        "ci": [
+          3.4,
+          7.4
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 20,
+        "pct": 4.4,
+        "ci": [
+          2.8,
+          6.6
+        ]
+      },
+      {
+        "term": "knowledge_base",
+        "count": 20,
+        "pct": 4.4,
+        "ci": [
+          2.8,
+          6.6
+        ]
+      },
+      {
+        "term": "notion",
+        "count": 20,
+        "pct": 4.4,
+        "ci": [
+          2.8,
+          6.6
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 18,
+        "pct": 3.9,
+        "ci": [
+          2.5,
+          6.1
+        ]
+      },
+      {
+        "term": "zendesk",
+        "count": 18,
+        "pct": 3.9,
+        "ci": [
+          2.5,
+          6.1
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 17,
+        "pct": 3.7,
+        "ci": [
+          2.3,
+          5.9
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 17,
+        "pct": 3.7,
+        "ci": [
+          2.3,
+          5.9
+        ]
+      },
+      {
+        "term": "jira",
+        "count": 17,
+        "pct": 3.7,
+        "ci": [
+          2.3,
+          5.9
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 16,
+        "pct": 3.5,
+        "ci": [
+          2.2,
+          5.6
+        ]
+      },
+      {
+        "term": "handoff",
+        "count": 16,
+        "pct": 3.5,
+        "ci": [
+          2.2,
+          5.6
+        ]
+      },
+      {
+        "term": "bug_reporting",
+        "count": 16,
+        "pct": 3.5,
+        "ci": [
+          2.2,
+          5.6
+        ]
+      },
+      {
+        "term": "hubspot",
+        "count": 16,
+        "pct": 3.5,
+        "ci": [
+          2.2,
+          5.6
+        ]
+      },
+      {
+        "term": "intercom",
+        "count": 15,
+        "pct": 3.3,
+        "ci": [
+          2.0,
+          5.3
+        ]
+      },
+      {
+        "term": "personas",
+        "count": 14,
+        "pct": 3.1,
+        "ci": [
+          1.8,
+          5.1
+        ]
+      },
+      {
+        "term": "sla",
+        "count": 14,
+        "pct": 3.1,
+        "ci": [
+          1.8,
+          5.1
+        ]
+      },
+      {
+        "term": "hospitality",
+        "count": 14,
+        "pct": 3.1,
+        "ci": [
+          1.8,
+          5.1
+        ]
+      },
+      {
+        "term": "git",
+        "count": 12,
+        "pct": 2.6,
+        "ci": [
+          1.5,
+          4.5
+        ]
+      }
+    ]
+  },
+  "TURISMO": {
+    "classified": 216,
+    "terms": [
+      {
+        "term": "travel",
+        "count": 175,
+        "pct": 81.0,
+        "ci": [
+          75.3,
+          85.7
+        ]
+      },
+      {
+        "term": "stakeholder",
+        "count": 76,
+        "pct": 35.2,
+        "ci": [
+          29.1,
+          41.8
+        ]
+      },
+      {
+        "term": "hospitality",
+        "count": 59,
+        "pct": 27.3,
+        "ci": [
+          21.8,
+          33.6
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 57,
+        "pct": 26.4,
+        "ci": [
+          21.0,
+          32.6
+        ]
+      },
+      {
+        "term": "booking",
+        "count": 38,
+        "pct": 17.6,
+        "ci": [
+          13.1,
+          23.2
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 38,
+        "pct": 17.6,
+        "ci": [
+          13.1,
+          23.2
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 35,
+        "pct": 16.2,
+        "ci": [
+          11.9,
+          21.7
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 31,
+        "pct": 14.4,
+        "ci": [
+          10.3,
+          19.7
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 29,
+        "pct": 13.4,
+        "ci": [
+          9.5,
+          18.6
+        ]
+      },
+      {
+        "term": "python",
+        "count": 28,
+        "pct": 13.0,
+        "ci": [
+          9.1,
+          18.1
+        ]
+      },
+      {
+        "term": "customer_success",
+        "count": 25,
+        "pct": 11.6,
+        "ci": [
+          8.0,
+          16.5
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 23,
+        "pct": 10.6,
+        "ci": [
+          7.2,
+          15.5
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 23,
+        "pct": 10.6,
+        "ci": [
+          7.2,
+          15.5
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 22,
+        "pct": 10.2,
+        "ci": [
+          6.8,
+          14.9
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 19,
+        "pct": 8.8,
+        "ci": [
+          5.7,
+          13.3
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 19,
+        "pct": 8.8,
+        "ci": [
+          5.7,
+          13.3
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 17,
+        "pct": 7.9,
+        "ci": [
+          5.0,
+          12.2
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 16,
+        "pct": 7.4,
+        "ci": [
+          4.6,
+          11.7
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 15,
+        "pct": 6.9,
+        "ci": [
+          4.3,
+          11.1
+        ]
+      },
+      {
+        "term": "vendor_management",
+        "count": 14,
+        "pct": 6.5,
+        "ci": [
+          3.9,
+          10.6
+        ]
+      },
+      {
+        "term": "escalation",
+        "count": 13,
+        "pct": 6.0,
+        "ci": [
+          3.6,
+          10.0
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 13,
+        "pct": 6.0,
+        "ci": [
+          3.6,
+          10.0
+        ]
+      },
+      {
+        "term": "git",
+        "count": 13,
+        "pct": 6.0,
+        "ci": [
+          3.6,
+          10.0
+        ]
+      },
+      {
+        "term": "csat",
+        "count": 12,
+        "pct": 5.6,
+        "ci": [
+          3.2,
+          9.5
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 12,
+        "pct": 5.6,
+        "ci": [
+          3.2,
+          9.5
+        ]
+      },
+      {
+        "term": "accessibility",
+        "count": 11,
+        "pct": 5.1,
+        "ci": [
+          2.9,
+          8.9
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 11,
+        "pct": 5.1,
+        "ci": [
+          2.9,
+          8.9
+        ]
+      },
+      {
+        "term": "hubspot",
+        "count": 10,
+        "pct": 4.6,
+        "ci": [
+          2.5,
+          8.3
+        ]
+      },
+      {
+        "term": "ticketing",
+        "count": 9,
+        "pct": 4.2,
+        "ci": [
+          2.2,
+          7.7
+        ]
+      },
+      {
+        "term": "java",
+        "count": 9,
+        "pct": 4.2,
+        "ci": [
+          2.2,
+          7.7
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 9,
+        "pct": 4.2,
+        "ci": [
+          2.2,
+          7.7
+        ]
+      },
+      {
+        "term": "model_evaluation",
+        "count": 8,
+        "pct": 3.7,
+        "ci": [
+          1.9,
+          7.1
+        ]
+      },
+      {
+        "term": "troubleshooting",
+        "count": 8,
+        "pct": 3.7,
+        "ci": [
+          1.9,
+          7.1
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 8,
+        "pct": 3.7,
+        "ci": [
+          1.9,
+          7.1
+        ]
+      },
+      {
+        "term": "statistics",
+        "count": 8,
+        "pct": 3.7,
+        "ci": [
+          1.9,
+          7.1
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 7,
+        "pct": 3.2,
+        "ci": [
+          1.6,
+          6.5
+        ]
+      },
+      {
+        "term": "upselling",
+        "count": 6,
+        "pct": 2.8,
+        "ci": [
+          1.3,
+          5.9
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 6,
+        "pct": 2.8,
+        "ci": [
+          1.3,
+          5.9
+        ]
+      },
+      {
+        "term": "ab_testing",
+        "count": 5,
+        "pct": 2.3,
+        "ci": [
+          1.0,
+          5.3
+        ]
+      },
+      {
+        "term": "sop",
+        "count": 4,
+        "pct": 1.9,
+        "ci": [
+          0.7,
+          4.7
+        ]
+      }
+    ]
+  },
+  "UX": {
+    "classified": 134,
+    "terms": [
+      {
+        "term": "product_design",
+        "count": 67,
+        "pct": 50.0,
+        "ci": [
+          41.7,
+          58.3
+        ]
+      },
+      {
+        "term": "javascript",
+        "count": 51,
+        "pct": 38.1,
+        "ci": [
+          30.3,
+          46.5
+        ]
+      },
+      {
+        "term": "figma",
+        "count": 38,
+        "pct": 28.4,
+        "ci": [
+          21.4,
+          36.5
+        ]
+      },
+      {
+        "term": "stakeholder",
+        "count": 36,
+        "pct": 26.9,
+        "ci": [
+          20.1,
+          34.9
+        ]
+      },
+      {
+        "term": "prototyping",
+        "count": 31,
+        "pct": 23.1,
+        "ci": [
+          16.8,
+          31.0
+        ]
+      },
+      {
+        "term": "design_system",
+        "count": 31,
+        "pct": 23.1,
+        "ci": [
+          16.8,
+          31.0
+        ]
+      },
+      {
+        "term": "llm",
+        "count": 23,
+        "pct": 17.2,
+        "ci": [
+          11.7,
+          24.4
+        ]
+      },
+      {
+        "term": "docker",
+        "count": 22,
+        "pct": 16.4,
+        "ci": [
+          11.1,
+          23.6
+        ]
+      },
+      {
+        "term": "onboarding",
+        "count": 22,
+        "pct": 16.4,
+        "ci": [
+          11.1,
+          23.6
+        ]
+      },
+      {
+        "term": "kpi",
+        "count": 20,
+        "pct": 14.9,
+        "ci": [
+          9.9,
+          21.9
+        ]
+      },
+      {
+        "term": "python",
+        "count": 19,
+        "pct": 14.2,
+        "ci": [
+          9.3,
+          21.1
+        ]
+      },
+      {
+        "term": "ci_cd",
+        "count": 19,
+        "pct": 14.2,
+        "ci": [
+          9.3,
+          21.1
+        ]
+      },
+      {
+        "term": "roadmap",
+        "count": 18,
+        "pct": 13.4,
+        "ci": [
+          8.7,
+          20.2
+        ]
+      },
+      {
+        "term": "logistics",
+        "count": 17,
+        "pct": 12.7,
+        "ci": [
+          8.1,
+          19.4
+        ]
+      },
+      {
+        "term": "html_css",
+        "count": 17,
+        "pct": 12.7,
+        "ci": [
+          8.1,
+          19.4
+        ]
+      },
+      {
+        "term": "documentation",
+        "count": 17,
+        "pct": 12.7,
+        "ci": [
+          8.1,
+          19.4
+        ]
+      },
+      {
+        "term": "java",
+        "count": 16,
+        "pct": 11.9,
+        "ci": [
+          7.5,
+          18.5
+        ]
+      },
+      {
+        "term": "git",
+        "count": 16,
+        "pct": 11.9,
+        "ci": [
+          7.5,
+          18.5
+        ]
+      },
+      {
+        "term": "reporting",
+        "count": 16,
+        "pct": 11.9,
+        "ci": [
+          7.5,
+          18.5
+        ]
+      },
+      {
+        "term": "user_research",
+        "count": 16,
+        "pct": 11.9,
+        "ci": [
+          7.5,
+          18.5
+        ]
+      },
+      {
+        "term": "sql",
+        "count": 14,
+        "pct": 10.4,
+        "ci": [
+          6.3,
+          16.8
+        ]
+      },
+      {
+        "term": "agile",
+        "count": 14,
+        "pct": 10.4,
+        "ci": [
+          6.3,
+          16.8
+        ]
+      },
+      {
+        "term": "accessibility",
+        "count": 13,
+        "pct": 9.7,
+        "ci": [
+          5.8,
+          15.9
+        ]
+      },
+      {
+        "term": "process_improvement",
+        "count": 12,
+        "pct": 9.0,
+        "ci": [
+          5.2,
+          15.0
+        ]
+      },
+      {
+        "term": "user_flows",
+        "count": 11,
+        "pct": 8.2,
+        "ci": [
+          4.6,
+          14.1
+        ]
+      },
+      {
+        "term": "wireframing",
+        "count": 11,
+        "pct": 8.2,
+        "ci": [
+          4.6,
+          14.1
+        ]
+      },
+      {
+        "term": "data_visualization",
+        "count": 11,
+        "pct": 8.2,
+        "ci": [
+          4.6,
+          14.1
+        ]
+      },
+      {
+        "term": "api_testing",
+        "count": 11,
+        "pct": 8.2,
+        "ci": [
+          4.6,
+          14.1
+        ]
+      },
+      {
+        "term": "travel",
+        "count": 10,
+        "pct": 7.5,
+        "ci": [
+          4.1,
+          13.2
+        ]
+      },
+      {
+        "term": "qa",
+        "count": 9,
+        "pct": 6.7,
+        "ci": [
+          3.6,
+          12.3
+        ]
+      },
+      {
+        "term": "excel",
+        "count": 9,
+        "pct": 6.7,
+        "ci": [
+          3.6,
+          12.3
+        ]
+      },
+      {
+        "term": "salesforce",
+        "count": 8,
+        "pct": 6.0,
+        "ci": [
+          3.1,
+          11.3
+        ]
+      },
+      {
+        "term": "customer_success",
+        "count": 8,
+        "pct": 6.0,
+        "ci": [
+          3.1,
+          11.3
+        ]
+      },
+      {
+        "term": "project_management",
+        "count": 7,
+        "pct": 5.2,
+        "ci": [
+          2.6,
+          10.4
+        ]
+      },
+      {
+        "term": "linux",
+        "count": 7,
+        "pct": 5.2,
+        "ci": [
+          2.6,
+          10.4
+        ]
+      },
+      {
+        "term": "escalation",
+        "count": 5,
+        "pct": 3.7,
+        "ci": [
+          1.6,
+          8.4
+        ]
+      },
+      {
+        "term": "information_architecture",
+        "count": 5,
+        "pct": 3.7,
+        "ci": [
+          1.6,
+          8.4
+        ]
+      },
+      {
+        "term": "personas",
+        "count": 5,
+        "pct": 3.7,
+        "ci": [
+          1.6,
+          8.4
+        ]
+      },
+      {
+        "term": "cypress",
+        "count": 5,
+        "pct": 3.7,
+        "ci": [
+          1.6,
+          8.4
+        ]
+      },
+      {
+        "term": "crm",
+        "count": 4,
+        "pct": 3.0,
+        "ci": [
+          1.2,
+          7.4
+        ]
+      }
+    ]
+  }
+}

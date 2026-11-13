@@ -1,0 +1,13 @@
+id,source,title,company,location,category,description,url,posted_at
+r1,remoteok,QA Engineer,Acme,Remote,testing,"We need test cases, jira and SQL. Bug reporting required.",,
+r2,remoteok,QA Analyst,Beta,Remote,testing,"Manual testing, regression, test plans.",,
+r3,himalayas,Senior QA Engineer,Gamma,Worldwide,qa,"Selenium, cypress, ci/cd pipelines.",,
+r4,himalayas,UX Designer,Delta,Remote,design,"Figma, prototyping, user research.",,
+r5,himalayas,Product Designer,Epsilon,Remote,design,"Design systems, wireframing, usability testing.",,
+r6,jobicy,Customer Support Specialist,Zeta,LatAm,support,"Zendesk, tickets, SLA, escalation.",,
+r7,jobicy,Support Engineer,Eta,Remote,support,"Troubleshooting, knowledge base, API.",,
+r8,arbeitnow,Operations Coordinator,Theta,Berlin,ops,"Inventory, logistics, reporting, Excel.",,
+r9,arbeitnow,Back Office Assistant,Iota,Berlin,admin,"Data entry, reconciliation, Excel.",,
+r10,arbeitnow,Travel Consultant,Kappa,Berlin,travel,"Bookings, itineraries, GDS Amadeus.",,
+r11,remoteok,Chef,Lambda,Remote,kitchen,Cook paella and manage kitchen.,,
+r12,remoteok,Data Engineer,Mu,Remote,data,"Python, SQL, ETL pipelines, Airflow.",,
