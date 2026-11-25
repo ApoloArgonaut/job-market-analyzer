@@ -1,6 +1,6 @@
 # jobmarket
 
-**Qué piden realmente las ofertas de trabajo remotas — medido, no supuesto.**
+**Qué piden realmente las ofertas de trabajo remotas, medido y no supuesto.**
 
 Una herramienta de línea de comandos que descarga ofertas de cinco bolsas de
 empleo públicas, las clasifica por perfil profesional y mide qué habilidades
@@ -142,7 +142,7 @@ ese mercado, no el mercado presencial. Está declarado en el propio informe.
 ## Tests
 
 ```bash
-.venv/bin/pytest                    # 85 tests
+.venv/bin/pytest                    # 96 tests
 .venv/bin/pytest --cov=jobmarket    # con cobertura
 ```
 
@@ -174,7 +174,7 @@ src/jobmarket/
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE).
+MIT, ver [LICENSE](LICENSE).
 
 ## Autor
 
