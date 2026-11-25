@@ -9,7 +9,7 @@ description = "Analiza la demanda real del mercado laboral remoto: qué piden la
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Ezra Gonzalez", email = "ezrag.studio@gmail.com" }]
+authors = [{ name = "Ezra Gonzalez", email = "176021703+ApoloArgonaut@users.noreply.github.com" }]
 keywords = ["job-market", "data-analysis", "career", "nlp", "labor-market"]
 classifiers = [
     "Programming Language :: Python :: 3.11",
